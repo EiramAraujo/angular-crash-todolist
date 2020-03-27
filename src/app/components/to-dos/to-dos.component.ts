@@ -15,7 +15,17 @@ export class ToDosComponent implements OnInit {
     this.todos=[
       {
         id:1,
-        title:'test',
+        title:'test 1',
+        completed:false
+      },
+      {
+        id:2,
+        title:'test 2',
+        completed:false
+      },
+      {
+        id:1,
+        title:'test 3',
         completed:false
       }
     ]
